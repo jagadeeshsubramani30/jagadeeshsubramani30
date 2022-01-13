@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... DevOps 
 - 🌱 I’m currently learning ... GCP
 - 💞️ I’m looking to collaborate on ...Git
-- 📫 How to reach me ...Jagadeesh
+- 📫 How to reach me ...Jagadeesh Subramani
 
 <!---
 jagadeeshsubramani30/jagadeeshsubramani30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
